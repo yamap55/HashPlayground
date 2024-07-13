@@ -2,7 +2,7 @@
 
 from logging import config
 
-from hoge.huga import Huga
+from HashPlayground.huga import Huga
 
 config.fileConfig("logging.conf", disable_existing_loggers=False)
 
